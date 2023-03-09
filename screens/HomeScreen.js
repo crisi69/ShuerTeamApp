@@ -54,7 +54,7 @@ const styles = StyleSheet.create({
   },
   email: {
     padding: 0,
-    marginBottom: -25,
+    marginBottom: -30,
     marginTop: 100,
   },
   buttonText: {
